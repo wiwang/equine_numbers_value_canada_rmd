@@ -45,20 +45,20 @@ time period visualised above to further support this hypothesis.
 Next we look at the range of the number horses for each provinces at any
 time point between 1940 - 1972:
 
-    ## `summarise()` ungrouping output (override with `.groups` argument)
+| Province             | Maximum | Minimum |
+| :------------------- | ------: | ------: |
+| Alberta              |  806200 |   87000 |
+| British Columbia     |   65200 |   22500 |
+| Manitoba             |  370800 |   31000 |
+| New Brunswick        |   71000 |    3200 |
+| Nova Scotia          |   64500 |    3600 |
+| Ontario              |  822300 |   75400 |
+| Prince Edward Island |   36700 |    2200 |
+| Quebec               |  378800 |   39000 |
+| Saskatchewan         | 1104300 |   58000 |
 
-    ## # A tibble: 9 x 3
-    ##   Province             Maximum Minimum
-    ##   <chr>                  <dbl>   <dbl>
-    ## 1 Alberta               806200   87000
-    ## 2 British Columbia       65200   22500
-    ## 3 Manitoba              370800   31000
-    ## 4 New Brunswick          71000    3200
-    ## 5 Nova Scotia            64500    3600
-    ## 6 Ontario               822300   75400
-    ## 7 Prince Edward Island   36700    2200
-    ## 8 Quebec                378800   39000
-    ## 9 Saskatchewan         1104300   58000
+Table 1. Maximum and minimum number of horses for each province between
+1940 - 1972
 
 Below we zoom in and look at the province of Alberta:
 
