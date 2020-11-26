@@ -24,11 +24,13 @@ two sources were used:
     farm
     value](http://open.canada.ca/data/en/dataset/b374f60b-9580-44dc-83f6-c0a850c15f30)
 
+There was a cool paper about horses once (Greenwood et al. 2020)
+
 ## Methods
 
-The R programming language R Core Team (2020) and the following R
-packages were used to perform the analysis: knitr and tidyverse Wickham
-et al. (2019). The code used to perform the analysis and create this
+The R programming language (R Core Team 2020) and the following R
+packages were used to perform the analysis: knitr and tidyverse (Wickham
+et al. 2019). The code used to perform the analysis and create this
 report can be found here:
 <https://github.com/ttimbers/equine_numbers_value_canada_rmd>.
 
@@ -90,6 +92,16 @@ Figure 2. Number of horses for province of focus
 # References
 
 <div id="refs" class="references hanging-indent">
+
+<div id="ref-greenwood2020prevalence">
+
+Greenwood, Sarah, Betty Chow-Lockerbie, Tasha Epp, Cameron Knight,
+Garrett Wachoski-Dark, Valerie MacDonald-Dickinson, and Bruce Wobeser.
+2020. “Prevalence and Prognostic Impact of Equus Caballus Papillomavirus
+Type 2 Infection in Equine Squamous Cell Carcinomas in Western Canadian
+Horses.” *Veterinary Pathology* 57 (5): 623–31.
+
+</div>
 
 <div id="ref-R">
 
